@@ -21,7 +21,10 @@ namespace ProblemTwo_CompilationError
         }
         public Employee(int eID,string eName,int eLevel, DateTime eDoJ)
         {
-
+            EmpID = eID;
+            EmpName = eName;
+            EmpLevel = eLevel;
+            DateOfJoining = eDoJ;
         }
 
         public static int GetMonthDifference(DateTime startDate, DateTime endDate)

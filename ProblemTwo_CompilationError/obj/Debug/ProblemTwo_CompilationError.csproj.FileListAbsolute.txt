@@ -1,2 +1,7 @@
 C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.csprojAssemblyReference.cache
 C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\bin\Debug\ProblemTwo_CompilationError.exe.config
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\bin\Debug\ProblemTwo_CompilationError.exe
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\bin\Debug\ProblemTwo_CompilationError.pdb
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.exe
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.pdb
