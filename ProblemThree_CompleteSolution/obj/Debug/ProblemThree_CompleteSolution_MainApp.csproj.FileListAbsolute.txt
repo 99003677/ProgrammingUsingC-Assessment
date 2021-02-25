@@ -1,0 +1,10 @@
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution.exe.config
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution.exe
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution.pdb
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution_BL.dll
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\bin\Debug\ProblemThree_CompleteSolution_BL.pdb
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution_MainApp.csprojAssemblyReference.cache
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution_MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution_MainApp.csproj.CopyComplete
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution.exe
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemThree_CompleteSolution\obj\Debug\ProblemThree_CompleteSolution.pdb

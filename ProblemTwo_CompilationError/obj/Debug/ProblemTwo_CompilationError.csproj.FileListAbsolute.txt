@@ -1,0 +1,2 @@
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.csprojAssemblyReference.cache
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemTwo_CompilationError\obj\Debug\ProblemTwo_CompilationError.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\bin\Debug\ProblemOne_IncorrectSolution.exe.config
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\bin\Debug\ProblemOne_IncorrectSolution.exe
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\bin\Debug\ProblemOne_IncorrectSolution.pdb
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\obj\Debug\ProblemOne_LogicError.csprojAssemblyReference.cache
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\obj\Debug\ProblemOne_LogicError.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\obj\Debug\ProblemOne_IncorrectSolution.exe
+C:\Users\Training\source\repos\99003677\ProgrammingUsingC-Assessment\ProblemOne_IncorrectSolution\obj\Debug\ProblemOne_IncorrectSolution.pdb
