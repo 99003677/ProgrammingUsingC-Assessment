@@ -8,6 +8,23 @@ namespace ProblemThree_CompleteSolution_BL
 {
     public class GourmetOrganicShop : GourmetShop,ITaxCompute
     {
-        
+        public GourmetOrganicShop(int iCode, string iName, Dictionary<int, double> iPrice):base(iCode,iName) {
+            ItemCode = iCode;
+            ItemName = iName;
+            ItemPrice = iPrice;
+        }
+        public double billBeforeTax;
+        public double TotalBillValue { get => TotalBillValue; set => TotalBillValue = value; }
+        public override double PayPerPiece(int quantity) {
+            TotalBillValue = quantity * ItemPrice.ElementAt(1).Value;
+            return TaxOnTotalBill();
+        }
+        public override double PayPerWeight(int weight) {
+            TotalBillValue = weight* ItemPrice.ElementAt(2).Value;
+            return TaxOnTotalBill();
+        }
+        public double TaxOnTotalBill() {
+            return TotalBillValue + (TotalBillValue * 0.75);
+        }
     }
 }
